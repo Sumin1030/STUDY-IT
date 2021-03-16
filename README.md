@@ -1,6 +1,6 @@
 # Study-IT
-## 제가 맡은 부분의 파일은 src/com/studyit/mybatis/sumin에 있습니다.
-## (dao관련 인터페이스와 매핑된 xml파일들은(쿼리) src/com/studyit/mybatis/sumin/mapperr에 있습니다.)
+#### 제가 맡은 부분의 파일은 src/com/studyit/mybatis/sumin에 있습니다.
+#### (dao관련 인터페이스와 매핑된 xml파일들은(쿼리) src/com/studyit/mybatis/sumin/mapperr에 있습니다.)
 
 1. 공지사항 구현
 Support_notice_Controller.java
