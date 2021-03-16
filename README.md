@@ -22,19 +22,19 @@ IStudy_detail_DAO.java
 4. 스터디 개설, 수정 구현   
 StudyInsertController.java(개설, 수정 폼 이동 부분 제외)   
    
-5-1. 관리자게시판-신고처리게시판 목록 구현   
+5. 관리자게시판-신고처리게시판 목록 구현   
 Report_list_Controller.java(목록, 상세페이지)   
 Board_report_list_DTO.java(처리할게시물목록)   
 IBoard_report_list_DAO.java   
 Participant_report_list_DTO.java(처리할스터디원목록)   
 IParticipant_report_list_DAO.java   
    
-5-2. 관리자게시판-신고처리게시판 상세페이지 신고목록 조회  
+- 관리자게시판-신고처리게시판 상세페이지 신고목록 조회  
 Report_detail.DTO.java(게시물신고목록)   
 IReport_detail_DAO.java   
 Report_DTO.java(스터디원신고목록)   
 IReportDAO.java   
    
-5-3. 관리자게시판-신고처리게시판 상세페이지 신고처리기능 구현   
+- 관리자게시판-신고처리게시판 상세페이지 신고처리기능 구현   
 Report_handle_Controller.java   
 IReport_handle_DAO.java   
